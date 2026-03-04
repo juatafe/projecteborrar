@@ -2,4 +2,4 @@
 ## Prova
 
 Holaaa
-![Foto del projecte](projecteborrar/img/foto.jpg)
+![Foto del projecte](projecteborrar/img/Foto.jpg)
